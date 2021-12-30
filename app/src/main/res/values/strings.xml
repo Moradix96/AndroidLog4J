@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">Android Log4J</string>
+    <string name="app_name" translatable="false">Android Log4J</string>
+    <string name="app_description">An android project, containing Log4J library for vulnerability scanner tools</string>
 </resources>
